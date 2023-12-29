@@ -1,6 +1,9 @@
 # Tablero de Visualización de venta de Productos Electrónicos 📊💻
 Este proyecto tiene como objetivo ofrecer una visión detallada del rendimiento del negocio a través de visualizaciones interactivas y análisis de datos.
 
+## Vista previa del Tablero de Visualización
+![Vista previa del tablero](https://github.com/Ezemettler/sales_report/blob/main/power_bi/capturas_dashboard/reporte_ventas1.png)
+![Vista previa del tablero](https://github.com/Ezemettler/sales_report/blob/main/power_bi/capturas_dashboard/reporte_ventas2.png)
 
 
 ## Descripción del Proyecto
