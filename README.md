@@ -19,11 +19,6 @@ Este proyecto consta de dos partes clave: la preparación de datos con Python y 
 - `scripts/`: Incluye scripts de Python utilizados para la limpieza y transformación de datos.
 - `power_bi/`: Contiene el archivo de Power BI con el tablero de visualización.
 
-## Uso del Proyecto
-1. Descarga el repositorio: `git clone https://github.com/Ezemettler/sales_report`
-2. Explora el código fuente en la carpeta `scripts/` para entender el proceso de transformación de datos.
-3. Abre el archivo de Power BI en `power_bi/` para interactuar con el tablero de visualización.
-
 ¡Gracias por ver mi proyecto!
 
 ---
