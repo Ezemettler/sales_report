@@ -22,5 +22,5 @@ Este proyecto consta de dos partes clave: la preparación de datos con Python y 
 
 ---
 **Ezequiel Mettler**
-Data Analyst | [LinkedIn](https://www.linkedin.com/in/ezequiel-mettler/) | [Portfolio Web](https://sites.google.com/view/ezemettler)
+| Data Analyst | [LinkedIn](https://www.linkedin.com/in/ezequiel-mettler/) | [Portfolio Web](https://sites.google.com/view/ezemettler)
 
