@@ -3,7 +3,6 @@ Este proyecto tiene como objetivo ofrecer una visión detallada del rendimiento 
 
 ## Vista previa del Tablero de Visualización
 ![Vista previa del tablero](https://github.com/Ezemettler/sales_report/blob/main/power_bi/capturas_dashboard/reporte_ventas1.png)
-![Vista previa del tablero](https://github.com/Ezemettler/sales_report/blob/main/power_bi/capturas_dashboard/reporte_ventas2.png)
 
 
 ## Descripción del Proyecto
