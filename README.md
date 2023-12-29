@@ -9,9 +9,9 @@ Este proyecto tiene como objetivo ofrecer una visión detallada del rendimiento 
 Este proyecto consta de dos partes clave: la preparación de datos con Python y Pandas, y la creación de un tablero interactivo en Power BI.
 
 ### Proceso de Desarrollo
-1. **Extracción de Datos:** Inicié el proyecto utilizando un conjunto de datos de Kaggle en formato CSV.
-2. **Transformación con Python y Pandas:** Utilicé Python y la biblioteca Pandas para limpiar y transformar los datos, asegurándome de que estuvieran listos para el análisis.
-3. **Power BI Magic:** Transferí los datos procesados a Power BI para crear un tablero de visualización dinámico y atractivo.
+1. **Extracción:** Inicié el proyecto utilizando un conjunto de datos de Kaggle en formato CSV.
+2. **Transformación:** Utilicé Python y la biblioteca Pandas para limpiar y transformar los datos, asegurándome de que estuvieran listos para el análisis.
+3. **Visualización:** Transferí los datos procesados a Power BI para crear un tablero de visualización dinámico y atractivo.
 
 ## Estructura del Repositorio
 - `data/`: Contiene el archivo CSV original y cualquier otro archivo relacionado con datos.
